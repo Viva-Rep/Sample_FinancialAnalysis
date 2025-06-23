@@ -18,6 +18,7 @@
 * Drill Through Pages - Drill Through for Further Analysis
 
 ![Sample Financial Analysis Dashboard](/SampleFinancialAnalysis_Dashboard_Image1.png)
+
 ![Sample Financial Analysis Dashboard Drill Through](/SampleFinancialAnalysis_Dashboard_Image2.png)
 
 [Access "Sample Financial Analysis Interactive Dashoard" Here](hhttps://app.powerbi.com/groups/me/reports/a0d56e37-24bc-4e53-b920-e24101031e6e/a8a6f9ed78e8d37c140a?experience=power-bi)
@@ -28,4 +29,4 @@
 2. EU Region (France closely followed by Germany) recorded highest profifts. Canada has contributed significantly, while profits from USA and Mexico much lower comparitively.  
 3. "Government" segment is thriving across all products. Also, "Paeso" is the most profitable product across all the countries (except from Germany - "Velo" is the profitable product here).
 
-### Drill through page provide much deeper insights into each country's performance by product and segment. 
+### Drill through page provides much deeper insights into each country's performance by product and segment. 
